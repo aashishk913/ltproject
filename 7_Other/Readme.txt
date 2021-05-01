@@ -31,7 +31,7 @@ Simple and accurate algorithm using Regular Expression and simple Algorithms in 
 
 
 LOW Level Requirements:
-1)Dataset for game is created manually
+1)Dataset for game is created manually 
 
 2)Algorithm should work without errors 
 
